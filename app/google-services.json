@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "542353693605",
+    "project_id": "grills-kitchen",
+    "storage_bucket": "grills-kitchen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542353693605:android:0aff33dd33a303038c664c",
+        "android_client_info": {
+          "package_name": "com.example.grillskitchen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542353693605-9vf6rcmina0btafeb2244lqhpqb1a5f1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBANORL2Xs2ay288iOlB1snpY8L26AEA_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542353693605-9vf6rcmina0btafeb2244lqhpqb1a5f1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

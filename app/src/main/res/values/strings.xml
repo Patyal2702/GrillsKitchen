@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Grills Kitchen</string>
+
+    <string name="descriptionFood">Grilled Chicken with cheese make for the perfect non-vegetarian burger</string>
+    <string name="order_eat"><![CDATA[Order & Eat]]></string>
+    <string name="order_now">ORDER NOW</string>
+    <string name="_1">1</string>
+    <string name="name">NAME</string>
+    <string name="mobile_no">MOBILE NO.</string>
+    <string name="address">ADDRESS</string>
+</resources>
